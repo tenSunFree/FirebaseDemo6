@@ -10,6 +10,6 @@ https://www.youtube.com/watch?v=tWlnAAZclFE&t=476s
 
 預覽
 --------
-![image](https://i.imgur.com/7KURRUt.jpg)                                      
+![image](https://i.imgur.com/CBVnyCv.jpg)                                      
 
-![image](https://i.imgur.com/lO9FBjr.jpg)    
+![image](https://i.imgur.com/tkbnhEk.jpg)    
