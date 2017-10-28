@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=tWlnAAZclFE&t=476s
                                    
 使用步驟
 --------
-1. 匯入檔案
+1. 匯入檔案                                   
 ![image](https://i.imgur.com/i3VJz5h.jpg)                                   
                                    
 2. 填上資料庫網址                                   
