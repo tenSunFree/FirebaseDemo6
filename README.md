@@ -6,7 +6,7 @@
 
 取材自以下資源
 --------
-Firebase & Database
+Firebase & Database                                   
 https://www.youtube.com/watch?v=QETnC6SEwa0                                   
 https://www.youtube.com/watch?v=tWlnAAZclFE&t=476s                                                  
                                    
